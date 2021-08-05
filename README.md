@@ -8,7 +8,6 @@
 -  ⚡ My favorite domain areas are identity & access mgmt (IAM), privacy, and big data!
 - 💬 Ask me about IAM, privacy, or big data!
 - 🏋️ Fun fact: I go for 2 dog walks every day!
-- 🏅 Black belt Taekwondo athlete 15 years ago
 - 😄 Pronouns: he/him
 <!--
 **salykins/salykins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
